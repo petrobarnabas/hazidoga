@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domiv\\Desktop\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga.csproj",
+      "projectUniqueName": "C:\\Users\\domiv\\Source\\Repos\\petrobarnabas\\hazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga.csproj",
       "projectName": "Elektronikaiszakuzletwebshophazidoga",
-      "projectPath": "C:\\Users\\domiv\\Desktop\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga.csproj",
+      "projectPath": "C:\\Users\\domiv\\Source\\Repos\\petrobarnabas\\hazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga.csproj",
       "packagesPath": "C:\\Users\\domiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domiv\\Desktop\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\obj\\",
+      "outputPath": "C:\\Users\\domiv\\Source\\Repos\\petrobarnabas\\hazidoga\\Elektronikaiszakuzletwebshophazidoga\\Elektronikaiszakuzletwebshophazidoga\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
