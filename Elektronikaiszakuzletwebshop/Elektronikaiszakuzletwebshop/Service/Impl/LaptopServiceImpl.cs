@@ -44,7 +44,7 @@ namespace ElektronikaiSzakuzletWebShopV2.Service.Impl
             dbLaptop.Cpu = updateData.Cpu;
             dbLaptop.Description = updateData.Description;
             dbLaptop.Gpu = updateData.Gpu;
-
+            return dbLaptop;
         }
     }
 }
