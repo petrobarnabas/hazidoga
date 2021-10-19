@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿namespace Elektronikaiszakuzletwebshop.Entity
 
-namespace Elektronikaiszakuzletwebshop.Entity
 {
-    public class Order
+    public class Order : AbstractPortableItem
     {
+
+
     }
 }
