@@ -9,6 +9,6 @@ namespace ElektronikaiSzakuzletWebShopV2.Service
         List<ENTITY> GetAll();
         ENTITY Save(ENTITY inputData);
         ENTITY Update(int id, ENTITY updateData);
-        void Delete(int id);
+
     }
 }
