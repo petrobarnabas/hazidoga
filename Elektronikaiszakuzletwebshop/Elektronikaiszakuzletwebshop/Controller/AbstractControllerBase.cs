@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ElektronikaiSzakuzletWebShopV2.Entity;
+using Elektronikaiszakuzletwebshop.Entity;
 
-namespace ElektronikaiSzakuzletWebShopV2.Controller
+namespace Elektronikaiszakuzletwebshop.Controller
 {
-    public abstract class LaptopControllerBase<ENTITY> : ControllerBase where ENTITY : AbstractBaseEntity
+    public abstract class AbstractControllerBase<ENTITY> : ControllerBase where ENTITY : AbstractBaseEntity
     {
         [HttpGet]
         public abstract List<ENTITY> GetAll();

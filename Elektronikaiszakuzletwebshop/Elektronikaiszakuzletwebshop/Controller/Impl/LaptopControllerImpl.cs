@@ -1,15 +1,15 @@
-﻿using ElektronikaiSzakuzletWebShopV2.Entity;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ElektronikaiSzakuzletWebShopV2.Service;
+using Elektronikaiszakuzletwebshop.Service;
+using Elektronikaiszakuzletwebshop.Entity;
 
-namespace ElektronikaiSzakuzletWebShopV2.Controller.Impl
+namespace Elektronikaiszakuzletwebshop.Controller.Impl
 {
     [Route("laptopok")]
-    public class LaptopControllerImpl : LaptopControllerBase<Laptop>
+    public class LaptopControllerImpl : AbstractControllerBase<Laptop>
     {
         private readonly IGenericService<Laptop> laptopService;
         public LaptopControllerImpl(IGenericService<Laptop> laptopService)
