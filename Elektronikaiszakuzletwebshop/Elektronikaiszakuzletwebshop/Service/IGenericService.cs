@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using ElektronikaiSzakuzletWebShopV2.Entity;
-
 namespace ElektronikaiSzakuzletWebShopV2.Service
 {
     public interface IGenericService<ENTITY> where ENTITY : AbstractBaseEntity

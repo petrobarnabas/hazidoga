@@ -1,4 +1,5 @@
 ﻿namespace ElektronikaiSzakuzletWebShopV2.Entity
+
 {
     public abstract class AbstractPortableItem : AbstractItem
     {

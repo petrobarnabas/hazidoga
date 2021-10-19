@@ -1,7 +1,6 @@
 ﻿using ElektronikaiSzakuzletWebShopV2.Entity;
 using System.Collections.Generic;
 using ElektronikaiSzakuzletWebShopV2.Repository;
-
 namespace ElektronikaiSzakuzletWebShopV2.Service.Impl
 {
     public class LaptopServiceImpl : IGenericService<Laptop>
