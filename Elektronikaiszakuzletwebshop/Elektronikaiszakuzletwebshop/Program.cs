@@ -14,6 +14,10 @@ namespace Elektronikaiszakuzletwebshop
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            new Service.Impl.LaptopServiceImpl(new Repository.LaptopRepository());
+            new Service.Impl.LaptopServiceImpl(new Repository.LaptopRepository());
+            new Service.Impl.LaptopServiceImpl(new Repository.LaptopRepository());
+            new Service.Impl.LaptopServiceImpl(new Repository.LaptopRepository());
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

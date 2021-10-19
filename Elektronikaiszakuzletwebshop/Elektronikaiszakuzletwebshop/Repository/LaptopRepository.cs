@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using ElektronikaiSzakuzletWebShopV2.Entity;
-namespace ElektronikaiSzakuzletWebShopV2.Repository
+using Elektronikaiszakuzletwebshop.Entity;
+namespace Elektronikaiszakuzletwebshop.Repository
 {
     public class LaptopRepository
     {

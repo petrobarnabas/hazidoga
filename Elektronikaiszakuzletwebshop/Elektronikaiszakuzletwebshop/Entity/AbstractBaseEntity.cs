@@ -1,4 +1,4 @@
-﻿namespace ElektronikaiSzakuzletWebShopV2.Entity
+﻿namespace Elektronikaiszakuzletwebshop.Entity
 
 {
     public abstract class AbstractBaseEntity

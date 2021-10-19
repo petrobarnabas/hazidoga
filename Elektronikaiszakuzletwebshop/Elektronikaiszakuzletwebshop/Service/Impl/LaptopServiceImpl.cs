@@ -1,7 +1,7 @@
-﻿using ElektronikaiSzakuzletWebShopV2.Entity;
+﻿using Elektronikaiszakuzletwebshop.Entity;
 using System.Collections.Generic;
-using ElektronikaiSzakuzletWebShopV2.Repository;
-namespace ElektronikaiSzakuzletWebShopV2.Service.Impl
+using Elektronikaiszakuzletwebshop.Repository;
+namespace Elektronikaiszakuzletwebshop.Service.Impl
 {
     public class LaptopServiceImpl : IGenericService<Laptop>
     {
